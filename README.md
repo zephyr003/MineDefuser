@@ -20,7 +20,7 @@ You may need to install the dependencies using:
 ```bash
 pip install pygame networkx
 ```
-- images: https://drive.google.com/drive/folders/12xy_Orz7gjLD4_VBZEAHDmvdxLJbCa87?usp=sharing
+- images: https://drive.google.com/drive/folders/11H62egjz5s7edTB4izq6AVf3Cxt7IqJ3?usp=sharing
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 ## License
