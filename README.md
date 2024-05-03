@@ -9,15 +9,16 @@ This repository contains a Python application that combines elements of Mineswee
 1. Clone the repository to your local machine.
 2. Ensure you have Python 3.x and the necessary dependencies installed ('pygame', 'networkx').
 3. Run the application using the following command:
-   '''bash
-   'python minetest.py' '''
+   ```bash
+   python minetest.py```
 4. Follow the on-screen instructions to navigate through the game and attempt to defuse the virtual bombs.
 ## Dependencies
 - pygame: For the graphical user interface and game interaction.
 - networkx: For generating graphs used in the wire-cutting mini-game.
 You may need to install the dependencies using:
-'''bash
-'pip install pygame networkx' '''
+```bash
+pip install pygame networkx
+```
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 ## License
